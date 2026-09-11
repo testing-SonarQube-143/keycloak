@@ -1875,3 +1875,6 @@
         </profile>
     </profiles>
 </project>
+<properties>
+  <sonar.organization>testing-sonarqube-143</sonar.organization>
+</properties>
